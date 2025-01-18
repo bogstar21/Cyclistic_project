@@ -18,9 +18,9 @@ After clening
 -Total after cleaning columns = 9
 
 ## Visualisation links
-- Cyclistic Riders Preferences https://haproxy-traffic-splitter/views/CyclisticRidersPreferences/RidersPreferences?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-- Cyclistic Riding Patterns https://haproxy-traffic-splitter/views/CyclisticRidingPatterns/RidingPatterns?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-- Cyclistic Seasonal Metrics https://haproxy-traffic-splitter/views/CyclisticSeasonalMetrics/SeasonalMetrics?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+- Cyclistic Riders Preferences https://public.tableau.com/app/profile/bogdan.starchenko/viz/CyclisticRidersPreferences/RidersPreferences
+- Cyclistic Riding Patterns https://public.tableau.com/app/profile/bogdan.starchenko/viz/CyclisticRidingPatterns/RidingPatterns
+- Cyclistic Seasonal Metrics https://public.tableau.com/app/profile/bogdan.starchenko/viz/CyclisticSeasonalMetrics/SeasonalMetrics
 ## Tools and Technologies
 
 SQL (PostgreSQL)
