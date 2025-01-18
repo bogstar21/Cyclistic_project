@@ -17,6 +17,10 @@ After clening
 -Total rows after cleaning = 5 715 786
 -Total after cleaning columns = 9
 
+## Visualisation links
+- Cyclistic Riders Preferences https://haproxy-traffic-splitter/views/CyclisticRidersPreferences/RidersPreferences?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+- Cyclistic Riding Patterns https://haproxy-traffic-splitter/views/CyclisticRidingPatterns/RidingPatterns?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+- Cyclistic Seasonal Metrics https://haproxy-traffic-splitter/views/CyclisticSeasonalMetrics/SeasonalMetrics?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 ## Tools and Technologies
 
 SQL (PostgreSQL)
