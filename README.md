@@ -8,13 +8,14 @@ This project is part of a case study to analyze how Cyclistic's bike-share servi
 - Identify opportunities to target casual riders and encourage membership sign-ups.
 
 ## Project Structure
-
-data/: Contains raw and cleaned datasets.
-raw/: Unprocessed files as downloaded.
-processed/: Cleaned datasets ready for analysis.
-notebooks/: Jupyter notebooks for data cleaning, analysis, and visualizations.
-scripts/: SQL queries a used in the project.
-visualizations/: Graphs and charts generated during the analysis.
+Before cleaning 
+- 12 csv. files (12 month for 2024 calendar year)
+- Source: https://divvy-tripdata.s3.amazonaws.com/index.html
+- Total rows before cleaning: 5 860 568
+- Total columns before cleaning: 13
+After clening
+-Total rows after cleaning = 5 715 786
+-Total after cleaning columns = 9
 
 ## Tools and Technologies
 
